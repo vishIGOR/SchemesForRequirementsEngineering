@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T04:40:37.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="UzJX5dBkWWx_pOEzqaEn" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T04:41:21.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="xxOgr36dvpN1ubFvOaj4" version="16.6.1" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
-    <mxGraphModel dx="2031" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,7 +73,7 @@
         <mxCell id="7DteyYkTqQjOKqWt-mtX-28" value="Создание комментария под заданием/записью" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="657" y="465" width="163" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="7DteyYkTqQjOKqWt-mtX-31" value="Прикрепление файлов через систему гугл-диска и других гугл-сервисов*" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7DteyYkTqQjOKqWt-mtX-31" value="Прикрепление файлов через систему гугл-сервисов*" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1007" y="682.5" width="163" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7DteyYkTqQjOKqWt-mtX-33" value="&lt;b&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -85,7 +85,7 @@
         <mxCell id="7DteyYkTqQjOKqWt-mtX-38" value="Система гугл-класса" style="shape=umlFrame;whiteSpace=wrap;html=1;width=80;height=40;" vertex="1" parent="1">
           <mxGeometry x="1220" y="110" width="600" height="950" as="geometry" />
         </mxCell>
-        <mxCell id="7DteyYkTqQjOKqWt-mtX-39" value="К гугл-сервисам относятся гугл-документы, гугл-презентации, гугл-рисунки и гугл-таблицы" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7DteyYkTqQjOKqWt-mtX-39" value="К гугл-сервисам относятся гугл-класс, гугл-документы, гугл-презентации, гугл-рисунки и гугл-таблицы" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="375" width="211" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7DteyYkTqQjOKqWt-mtX-40" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7DteyYkTqQjOKqWt-mtX-39" target="7DteyYkTqQjOKqWt-mtX-31">
