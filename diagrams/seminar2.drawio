@@ -1,1 +1,129 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T11:59:57.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="16.6.1" etag="tjHYziO_DanvNPQETrHM" type="github"><diagram id="3b7zyBsEo7-Uq_8gr8gD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-25T12:49:37.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="MF8BwqLX5Fy3uOqhdqaQ" version="16.6.1" type="github">
+  <diagram id="3b7zyBsEo7-Uq_8gr8gD" name="Page-1">
+    <mxGraphModel dx="2035" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-15" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;curved=1;" edge="1" parent="1" source="tC24F0ibOgKhYHNWl2Ua-1" target="tC24F0ibOgKhYHNWl2Ua-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-16" style="edgeStyle=entityRelationEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;curved=1;" edge="1" parent="1" target="tC24F0ibOgKhYHNWl2Ua-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-27" style="edgeStyle=entityRelationEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="tC24F0ibOgKhYHNWl2Ua-1" target="tC24F0ibOgKhYHNWl2Ua-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-29" style="edgeStyle=entityRelationEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="tC24F0ibOgKhYHNWl2Ua-1" target="tC24F0ibOgKhYHNWl2Ua-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-30" style="edgeStyle=entityRelationEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="tC24F0ibOgKhYHNWl2Ua-1" target="tC24F0ibOgKhYHNWl2Ua-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-31" style="edgeStyle=entityRelationEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="tC24F0ibOgKhYHNWl2Ua-1" target="tC24F0ibOgKhYHNWl2Ua-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-32" style="edgeStyle=entityRelationEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="tC24F0ibOgKhYHNWl2Ua-1" target="tC24F0ibOgKhYHNWl2Ua-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-33" style="edgeStyle=entityRelationEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="tC24F0ibOgKhYHNWl2Ua-34" target="tC24F0ibOgKhYHNWl2Ua-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-36" style="edgeStyle=entityRelationEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="tC24F0ibOgKhYHNWl2Ua-1" target="tC24F0ibOgKhYHNWl2Ua-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-1" value="Пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="400" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-4" value="Создать канал" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-5" value="Подписаться на канал" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-6" value="Выложить видео на&amp;nbsp; канале" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-7" value="Запустить стрим на&amp;nbsp; канале" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-8" value="Оставить комментарий под видео/стримом" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-9" value="Оценить видео или стрим по шкале от 1 до 5" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-10" value="Поставить лайк комментарию" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-41" value="" style="edgeStyle=entityRelationEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=open;startFill=0;dashed=1;" edge="1" parent="1" source="tC24F0ibOgKhYHNWl2Ua-11" target="tC24F0ibOgKhYHNWl2Ua-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-47" value="" style="edgeStyle=entityRelationEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=open;endFill=0;" edge="1" parent="1" source="tC24F0ibOgKhYHNWl2Ua-11" target="tC24F0ibOgKhYHNWl2Ua-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-11" value="Пожаловаться на комментарий/стрим/видео" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-12" value="Подать заявку на получение роли модератора" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-14" value="Задонатить стримеру" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-20" style="edgeStyle=entityRelationEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="tC24F0ibOgKhYHNWl2Ua-17" target="tC24F0ibOgKhYHNWl2Ua-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-23" style="edgeStyle=entityRelationEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="tC24F0ibOgKhYHNWl2Ua-17" target="tC24F0ibOgKhYHNWl2Ua-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-17" value="Модератор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="800" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-18" value="Получить список&amp;nbsp; жалоб" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="790" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-22" value="Забанить пользователя/видео/стрим/канал" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="910" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-25" value="Функциональные возможности модератора может получить пользователь после принятия заявки на модераторство, при этом пользователь не теряет свои функциональные возможности" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="610" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-26" value="" style="endArrow=none;dashed=1;html=1;curved=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tC24F0ibOgKhYHNWl2Ua-25" target="tC24F0ibOgKhYHNWl2Ua-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="780" as="sourcePoint" />
+            <mxPoint x="430" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-35" style="edgeStyle=entityRelationEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="tC24F0ibOgKhYHNWl2Ua-34" target="tC24F0ibOgKhYHNWl2Ua-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-34" value="Стример" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="690" y="335" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-37" value="Функциональные возможности Стримера может получить пользователь после создания канала, при этом пользователь не теряет свои функциональные возможности." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-38" value="" style="endArrow=none;dashed=1;html=1;curved=1;entryX=0.25;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tC24F0ibOgKhYHNWl2Ua-37" target="tC24F0ibOgKhYHNWl2Ua-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="280" as="sourcePoint" />
+            <mxPoint x="470" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-40" value="Заполнить описание жалобы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-43" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-46" value="Пожаловаться на комментарий/стрим/видео" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tC24F0ibOgKhYHNWl2Ua-48" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="420" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
