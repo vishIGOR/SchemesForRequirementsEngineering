@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T18:47:47.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="9b0-iknS7hJqPyO8ArLB" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-09T18:54:48.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="0fIj_K-Si8EP0f-uOkkm" version="17.0.0" type="github">
   <diagram id="8hOy7J-Tb4VkElEGlRXa" name="Page-1">
-    <mxGraphModel dx="2318" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2318" dy="1835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -341,7 +341,7 @@
         <mxCell id="3TvEwHp-FLP5A3JZ4EUk-120" value="0..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="530" y="-124" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3TvEwHp-FLP5A3JZ4EUk-123" value="Соответствуют сущностям пользователя, только принадлежать другу" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="3TvEwHp-FLP5A3JZ4EUk-123" value="Соответствуют сущностям пользователя, только принадлежат другу" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="480" y="-585" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3TvEwHp-FLP5A3JZ4EUk-124" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=13;startSize=10;endSize=10;" edge="1" parent="1" source="3TvEwHp-FLP5A3JZ4EUk-123" target="3TvEwHp-FLP5A3JZ4EUk-96">
