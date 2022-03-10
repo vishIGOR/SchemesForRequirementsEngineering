@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T17:18:17.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="xeBYSAqvi5qaO8P2kCgh" version="17.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T17:28:15.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="QuVtqBB7M00Q1jHeNDDe" version="17.1.0" type="github">
   <diagram id="8hOy7J-Tb4VkElEGlRXa" name="Page-1">
-    <mxGraphModel dx="2318" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2318" dy="1835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,7 +101,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3TvEwHp-FLP5A3JZ4EUk-22" value="Глобальный каталог" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=52;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="170" y="311.5" width="140" height="43" as="geometry" />
+          <mxGeometry x="170" y="308.5" width="140" height="43" as="geometry" />
         </mxCell>
         <mxCell id="3TvEwHp-FLP5A3JZ4EUk-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;startSize=10;endSize=10;" parent="1" source="3TvEwHp-FLP5A3JZ4EUk-25" target="3TvEwHp-FLP5A3JZ4EUk-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -211,17 +211,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3TvEwHp-FLP5A3JZ4EUk-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;endArrow=open;endFill=0;startSize=10;endSize=10;strokeColor=#CC0066;" parent="1" source="3TvEwHp-FLP5A3JZ4EUk-79" target="3TvEwHp-FLP5A3JZ4EUk-27" edge="1">
+        <mxCell id="3TvEwHp-FLP5A3JZ4EUk-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startArrow=none;startFill=0;endArrow=open;endFill=0;startSize=10;endSize=10;strokeColor=#CC0066;" parent="1" source="3TvEwHp-FLP5A3JZ4EUk-79" target="3TvEwHp-FLP5A3JZ4EUk-100" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="380" y="170" />
-              <mxPoint x="585" y="170" />
+              <mxPoint x="870" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3TvEwHp-FLP5A3JZ4EUk-84" value="Содержит" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="3TvEwHp-FLP5A3JZ4EUk-83" vertex="1" connectable="0">
           <mxGeometry x="0.3461" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-179" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3TvEwHp-FLP5A3JZ4EUk-79" value="Рекомендация" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
@@ -304,7 +304,7 @@
         <mxCell id="3TvEwHp-FLP5A3JZ4EUk-120" value="0..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="530" y="-124" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3TvEwHp-FLP5A3JZ4EUk-123" value="Соответствуют сущностям пользователя, только принадлежат другу" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="3TvEwHp-FLP5A3JZ4EUk-123" value="Соответствуют сущностям пользователя, только принадлежат Другому пользователю группы" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="480" y="-585" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3TvEwHp-FLP5A3JZ4EUk-124" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=13;startSize=10;endSize=10;" parent="1" source="3TvEwHp-FLP5A3JZ4EUk-123" target="3TvEwHp-FLP5A3JZ4EUk-96" edge="1">
@@ -320,7 +320,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3TvEwHp-FLP5A3JZ4EUk-129" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="590" y="240" width="20" height="20" as="geometry" />
+          <mxGeometry x="870" y="390" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3TvEwHp-FLP5A3JZ4EUk-130" value="0..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="470" y="307" width="30" height="20" as="geometry" />
@@ -380,7 +380,7 @@
         <mxCell id="3TvEwHp-FLP5A3JZ4EUk-143" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="1010" y="728" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-5" value="Здесь должна быть доступна вся информация, предоставленная API кинопоиска(режиссеры, актерский состав и т.д.). Разница между фильмом и сериалом заключена в различных данных предоставляемых кинопоиском. https://kinopoisk.dev/account/sign-up,&amp;nbsp;https://www.kinopoisk.ru/" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-5" value="Здесь должна быть доступна вся информация, предоставленная API кинопоиска или MDB(режиссеры, актерский состав и т.д.). Разница между фильмом и сериалом заключена в различных данных предоставляемых кинопоиском. https://kinopoisk.dev/account/sign-up,&amp;nbsp;https://www.kinopoisk.ru/" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="1110" y="180" width="300" height="140" as="geometry" />
         </mxCell>
         <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#000000;" edge="1" parent="1" source="3TvEwHp-FLP5A3JZ4EUk-27" target="gEv-k9MVfC7fjgF1Kp7Z-5">
@@ -404,7 +404,7 @@
         <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-26" value="Название" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" vertex="1" parent="gEv-k9MVfC7fjgF1Kp7Z-24">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-29" value="" style="endArrow=diamond;html=1;rounded=0;fontColor=#000000;startSize=10;endSize=10;endFill=0;" edge="1" parent="1" source="gEv-k9MVfC7fjgF1Kp7Z-21" target="gEv-k9MVfC7fjgF1Kp7Z-24">
+        <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-29" value="" style="endArrow=diamond;html=1;rounded=0;fontColor=#000000;startSize=10;endSize=10;endFill=0;startArrow=none;startFill=0;" edge="1" parent="1" source="gEv-k9MVfC7fjgF1Kp7Z-21" target="gEv-k9MVfC7fjgF1Kp7Z-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-700" y="-23.5" as="sourcePoint" />
             <mxPoint x="-650" y="-73.5" as="targetPoint" />
@@ -412,7 +412,12 @@
         </mxCell>
         <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-45" value="Содержит" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gEv-k9MVfC7fjgF1Kp7Z-29">
           <mxGeometry x="0.4632" y="-1" relative="1" as="geometry">
-            <mxPoint x="-1" y="44" as="offset" />
+            <mxPoint x="-1" y="-29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-62" value="Является членом" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="gEv-k9MVfC7fjgF1Kp7Z-29">
+          <mxGeometry x="0.1824" y="-1" relative="1" as="geometry">
+            <mxPoint y="114" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-30" value="&lt;&lt;abstract&gt;&gt;&#xa;Роль" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=52;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
@@ -420,7 +425,7 @@
         </mxCell>
         <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#000000;startSize=10;endSize=10;" edge="1" parent="1" target="gEv-k9MVfC7fjgF1Kp7Z-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-670" y="-93.5" as="sourcePoint" />
+            <mxPoint x="-670" y="-91" as="sourcePoint" />
             <mxPoint x="220" y="-133.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -441,13 +446,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;startArrow=none;startFill=0;endArrow=none;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="gEv-k9MVfC7fjgF1Kp7Z-38" target="gEv-k9MVfC7fjgF1Kp7Z-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-220" y="146.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-38" value="Администратор" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="-290" y="2.5" width="140" height="54" as="geometry" />
         </mxCell>
@@ -455,7 +453,7 @@
           <mxGeometry y="28" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-50" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-675" y="76.5" width="30" height="20" as="geometry" />
+          <mxGeometry x="-670" y="76.5" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-53" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#000000;startSize=10;endSize=10;exitX=1;exitY=0.429;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#CC0066;" edge="1" parent="1" source="gEv-k9MVfC7fjgF1Kp7Z-52" target="3TvEwHp-FLP5A3JZ4EUk-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -463,8 +461,8 @@
             <mxPoint x="50" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-54" value="Отношения между пользователями можно представить в виде этой схемы. Роль администратора получает создатель группы(единственный). Роль администратора даёт право удалять пользователей из группы. Чтобы попасть в группу, нужно перейти по ссылке-приглашению.&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="-310" width="390" height="100" as="geometry" />
+        <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-54" value="Отношения между пользователями и группами можно представить в виде этой схемы. Роль администратора получает создатель группы(единственный). Роль администратора даёт право удалять пользователей из группы. Чтобы попасть в группу, нужно перейти по ссылке-приглашению.&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="-310" width="390" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
