@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T17:31:21.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="QeUpnuwwIWXEX4y5dlCM" version="17.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T17:33:56.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="XwyPRxubrjymQ9pgPlE0" version="17.1.0" type="github">
   <diagram id="8hOy7J-Tb4VkElEGlRXa" name="Page-1">
     <mxGraphModel dx="2318" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -383,7 +383,7 @@
         <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-5" value="Здесь должна быть доступна вся информация, предоставленная API кинопоиска или MDB(режиссеры, актерский состав и т.д.). Разница между фильмом и сериалом заключена в различных данных предоставляемых кинопоиском. https://kinopoisk.dev/account/sign-up,&amp;nbsp;https://www.kinopoisk.ru/" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="1110" y="180" width="300" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#000000;" edge="1" parent="1" source="3TvEwHp-FLP5A3JZ4EUk-27" target="gEv-k9MVfC7fjgF1Kp7Z-5">
+        <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#000000;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="3TvEwHp-FLP5A3JZ4EUk-27" target="gEv-k9MVfC7fjgF1Kp7Z-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="180" as="sourcePoint" />
             <mxPoint x="790" y="130" as="targetPoint" />
