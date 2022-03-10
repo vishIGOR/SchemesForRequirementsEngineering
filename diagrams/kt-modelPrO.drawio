@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T17:17:26.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Ewl02caGrJWYPz86Idn9" version="17.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T17:18:17.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="xeBYSAqvi5qaO8P2kCgh" version="17.1.0" type="github">
   <diagram id="8hOy7J-Tb4VkElEGlRXa" name="Page-1">
     <mxGraphModel dx="2318" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -230,7 +230,7 @@
         <mxCell id="3TvEwHp-FLP5A3JZ4EUk-86" value="Кинопроизведение в рекомендации обязано быть в списке просмотренного отправившего пользователя" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="-60" y="-620" width="300" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3TvEwHp-FLP5A3JZ4EUk-87" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=13;startSize=10;endSize=10;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3TvEwHp-FLP5A3JZ4EUk-86" target="3TvEwHp-FLP5A3JZ4EUk-79" edge="1">
+        <mxCell id="3TvEwHp-FLP5A3JZ4EUk-87" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=13;startSize=10;endSize=10;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#CC0066;" parent="1" source="3TvEwHp-FLP5A3JZ4EUk-86" target="3TvEwHp-FLP5A3JZ4EUk-79" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="60" as="sourcePoint" />
             <mxPoint x="600" y="10" as="targetPoint" />
@@ -457,7 +457,7 @@
         <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-50" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-675" y="76.5" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-53" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#000000;startSize=10;endSize=10;exitX=1;exitY=0.429;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gEv-k9MVfC7fjgF1Kp7Z-52" target="3TvEwHp-FLP5A3JZ4EUk-1">
+        <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-53" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#000000;startSize=10;endSize=10;exitX=1;exitY=0.429;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#CC0066;" edge="1" parent="1" source="gEv-k9MVfC7fjgF1Kp7Z-52" target="3TvEwHp-FLP5A3JZ4EUk-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="90" as="sourcePoint" />
             <mxPoint x="50" y="40" as="targetPoint" />
