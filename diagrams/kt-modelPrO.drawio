@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T02:12:33.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="5cPIBgSAPzWf-5myb1tB" version="17.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T02:13:58.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="_RsXYJ6bU2SVmrXiaD6u" version="17.1.0" type="github">
   <diagram id="8hOy7J-Tb4VkElEGlRXa" name="Page-1">
     <mxGraphModel dx="2098" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -435,7 +435,7 @@
         <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;startArrow=none;startFill=0;endArrow=block;endFill=0;startSize=10;endSize=10;" parent="1" source="gEv-k9MVfC7fjgF1Kp7Z-38" target="gEv-k9MVfC7fjgF1Kp7Z-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;startArrow=none;startFill=0;endArrow=none;endFill=0;startSize=10;endSize=10;" parent="1" source="gEv-k9MVfC7fjgF1Kp7Z-38" target="gEv-k9MVfC7fjgF1Kp7Z-34" edge="1">
+        <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;startArrow=none;startFill=0;endArrow=open;endFill=0;startSize=10;endSize=10;" parent="1" source="gEv-k9MVfC7fjgF1Kp7Z-38" target="gEv-k9MVfC7fjgF1Kp7Z-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-47" value="Может изгонять" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="gEv-k9MVfC7fjgF1Kp7Z-46" vertex="1" connectable="0">
@@ -444,10 +444,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-38" value="Администратор" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=28;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="-290" y="2.5" width="140" height="54" as="geometry" />
+          <mxGeometry x="-290" y="2.5" width="150" height="54" as="geometry" />
         </mxCell>
         <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-56" value="Ссылка на приглашение" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="gEv-k9MVfC7fjgF1Kp7Z-38" vertex="1">
-          <mxGeometry y="28" width="140" height="26" as="geometry" />
+          <mxGeometry y="28" width="150" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gEv-k9MVfC7fjgF1Kp7Z-50" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="-670" y="76.5" width="30" height="20" as="geometry" />
