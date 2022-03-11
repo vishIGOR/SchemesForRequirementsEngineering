@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T02:10:31.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="oGtVBQqCOS4rVMdGiWTN" version="17.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T02:12:33.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="5cPIBgSAPzWf-5myb1tB" version="17.1.0" type="github">
   <diagram id="8hOy7J-Tb4VkElEGlRXa" name="Page-1">
-    <mxGraphModel dx="2098" dy="1777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2098" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -171,11 +171,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3TvEwHp-FLP5A3JZ4EUk-68" value="Другой пользователь группы" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="600" y="-240" width="180" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="3TvEwHp-FLP5A3JZ4EUk-69" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3TvEwHp-FLP5A3JZ4EUk-68" vertex="1">
-          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        <mxCell id="3TvEwHp-FLP5A3JZ4EUk-68" value="Другой пользователь группы" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="-238" width="180" height="48" as="geometry" />
         </mxCell>
         <mxCell id="3TvEwHp-FLP5A3JZ4EUk-72" value="&lt;abstract&gt;&gt;&#xa;Личное сообщение" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="390" y="-190" width="140" height="130" as="geometry" />
@@ -236,7 +233,7 @@
             <mxPoint x="600" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3TvEwHp-FLP5A3JZ4EUk-88" value="В данном случае Другой пользователь - любой другой пользователь, с которым вы находитесь в группе. Показан только функционал, который имеет пользователь по отношению к другу, так как мы являемся другом для него и он имеет те же связи по отношению к нам" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="3TvEwHp-FLP5A3JZ4EUk-88" value="В данном случае Другой пользователь - любой другой пользователь, с которым вы находитесь в группе. Показан только функционал, который имеет пользователь по отношению к другому пользователю, так как мы являемся другим пользователем для него и он имеет те же связи по отношению к нам" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="900" y="-280" width="300" height="160" as="geometry" />
         </mxCell>
         <mxCell id="3TvEwHp-FLP5A3JZ4EUk-92" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=13;startSize=10;endSize=10;" parent="1" source="3TvEwHp-FLP5A3JZ4EUk-88" target="3TvEwHp-FLP5A3JZ4EUk-68" edge="1">
