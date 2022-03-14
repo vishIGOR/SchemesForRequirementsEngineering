@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T11:16:34.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="17.1.1" etag="werllO4KuuhbAaLFxm0k" type="github"><diagram id="yXc7YJNdHbiCosbK2DJq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-14T12:17:30.027Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="rWZvA8f6Bnj1OQm3_xB-" version="17.1.1" type="github">
+  <diagram id="yXc7YJNdHbiCosbK2DJq" name="Page-1">
+    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="450" y="120" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-1" parent="1" target="2eAw91cuDSa5Pl7X2-ji-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-3" value="Пользователь открывает главную страницу системы" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="402.5" y="210" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-3" parent="1" target="2eAw91cuDSa5Pl7X2-ji-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="370" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endSize=8;endArrow=open;endFill=0;" edge="1" parent="1" source="2eAw91cuDSa5Pl7X2-ji-7" target="2eAw91cuDSa5Pl7X2-ji-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-7" value="Система показывает главную страницу" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="402.5" y="320" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" parent="1" source="2eAw91cuDSa5Pl7X2-ji-9" target="2eAw91cuDSa5Pl7X2-ji-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-9" value="Пользователь нажимает на форму поиска и вводит название/ключевые слова" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="402.5" y="790" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-10" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="425" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-11" value="&lt;span style=&quot;font-size: 12px ; text-align: center ; background-color: rgb(248 , 249 , 250)&quot;&gt;Пользователь больше не хочет добавить фильтр&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-10" parent="1" target="2eAw91cuDSa5Pl7X2-ji-9">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="700" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="460" />
+              <mxPoint x="790" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-12" value="&lt;span style=&quot;font-size: 12px ; text-align: center ; background-color: rgb(248 , 249 , 250)&quot;&gt;Пользователь хочет добавить/удалить фильтр&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-10" parent="1" target="2eAw91cuDSa5Pl7X2-ji-15">
+          <mxGeometry x="-0.7143" y="-115" relative="1" as="geometry">
+            <mxPoint x="460" y="610" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" parent="1" source="2eAw91cuDSa5Pl7X2-ji-15" target="2eAw91cuDSa5Pl7X2-ji-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-15" value="Пользователь выбирает фильтр и его параметры для добавления/добавления" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="402.5" y="550" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2eAw91cuDSa5Pl7X2-ji-16" target="2eAw91cuDSa5Pl7X2-ji-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="705" />
+              <mxPoint x="130" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-16" value="Система обновляет параметры фильтрации" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="402.5" y="680" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-23" value="Система показывает результаты поиска" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="402.5" y="950" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-25" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="60" width="740" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-26" value="Найти видео, стрим, канал&lt;br&gt;Актор: пользователь" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="70" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
