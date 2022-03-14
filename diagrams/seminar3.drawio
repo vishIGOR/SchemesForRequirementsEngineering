@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T12:17:30.027Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="rWZvA8f6Bnj1OQm3_xB-" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T14:30:37.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="aEYv7_Fl2CBc6mgqHsjq" version="17.1.1" type="github">
   <diagram id="yXc7YJNdHbiCosbK2DJq" name="Page-1">
-    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3694" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2eAw91cuDSa5Pl7X2-ji-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="450" y="120" width="30" height="30" as="geometry" />
+          <mxGeometry x="-180" y="145" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2eAw91cuDSa5Pl7X2-ji-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-1" parent="1" target="2eAw91cuDSa5Pl7X2-ji-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="465" y="240" as="targetPoint" />
+            <mxPoint x="-165" y="265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2eAw91cuDSa5Pl7X2-ji-3" value="Пользователь открывает главную страницу системы" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="402.5" y="210" width="125" height="50" as="geometry" />
+          <mxGeometry x="-227.5" y="235" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2eAw91cuDSa5Pl7X2-ji-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-3" parent="1" target="2eAw91cuDSa5Pl7X2-ji-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="465" y="370" as="targetPoint" />
+            <mxPoint x="-165" y="395" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -25,29 +25,29 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2eAw91cuDSa5Pl7X2-ji-7" value="Система показывает главную страницу" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="402.5" y="320" width="125" height="50" as="geometry" />
+          <mxGeometry x="-227.5" y="345" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2eAw91cuDSa5Pl7X2-ji-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" parent="1" source="2eAw91cuDSa5Pl7X2-ji-9" target="2eAw91cuDSa5Pl7X2-ji-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2eAw91cuDSa5Pl7X2-ji-9" value="Пользователь нажимает на форму поиска и вводит название/ключевые слова" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="402.5" y="790" width="125" height="80" as="geometry" />
+          <mxGeometry x="-227.5" y="815" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2eAw91cuDSa5Pl7X2-ji-10" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="425" y="440" width="80" height="40" as="geometry" />
+          <mxGeometry x="-205" y="465" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2eAw91cuDSa5Pl7X2-ji-11" value="&lt;span style=&quot;font-size: 12px ; text-align: center ; background-color: rgb(248 , 249 , 250)&quot;&gt;Пользователь больше не хочет добавить фильтр&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-10" parent="1" target="2eAw91cuDSa5Pl7X2-ji-9">
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-11" value="&lt;span style=&quot;font-size: 12px ; text-align: center ; background-color: rgb(248 , 249 , 250)&quot;&gt;[Пользователь не хочет добавить фильтр]&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-10" parent="1" target="2eAw91cuDSa5Pl7X2-ji-9">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="700" y="820" as="targetPoint" />
+            <mxPoint x="70" y="845" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="790" y="460" />
-              <mxPoint x="790" y="830" />
+              <mxPoint x="160" y="485" />
+              <mxPoint x="160" y="855" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2eAw91cuDSa5Pl7X2-ji-12" value="&lt;span style=&quot;font-size: 12px ; text-align: center ; background-color: rgb(248 , 249 , 250)&quot;&gt;Пользователь хочет добавить/удалить фильтр&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-10" parent="1" target="2eAw91cuDSa5Pl7X2-ji-15">
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-12" value="&lt;span style=&quot;font-size: 12px ; text-align: center ; background-color: rgb(248 , 249 , 250)&quot;&gt;[Пользователь хочет добавить/удалить фильтр]&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-10" parent="1" target="2eAw91cuDSa5Pl7X2-ji-15">
           <mxGeometry x="-0.7143" y="-115" relative="1" as="geometry">
-            <mxPoint x="460" y="610" as="targetPoint" />
+            <mxPoint x="-170" y="635" as="targetPoint" />
             <Array as="points" />
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -56,28 +56,294 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2eAw91cuDSa5Pl7X2-ji-15" value="Пользователь выбирает фильтр и его параметры для добавления/добавления" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="402.5" y="550" width="125" height="70" as="geometry" />
+          <mxGeometry x="-227.5" y="575" width="125" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2eAw91cuDSa5Pl7X2-ji-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2eAw91cuDSa5Pl7X2-ji-16" target="2eAw91cuDSa5Pl7X2-ji-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="490" as="targetPoint" />
+            <mxPoint x="-260" y="515" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="130" y="705" />
-              <mxPoint x="130" y="460" />
+              <mxPoint x="-500" y="730" />
+              <mxPoint x="-500" y="485" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2eAw91cuDSa5Pl7X2-ji-16" value="Система обновляет параметры фильтрации" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="402.5" y="680" width="125" height="50" as="geometry" />
+          <mxGeometry x="-227.5" y="705" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2eAw91cuDSa5Pl7X2-ji-23" value="Система показывает результаты поиска" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="402.5" y="950" width="125" height="50" as="geometry" />
+          <mxGeometry x="-227.5" y="975" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2eAw91cuDSa5Pl7X2-ji-25" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="70" y="60" width="740" height="950" as="geometry" />
+          <mxGeometry x="390" y="70" width="580" height="1100" as="geometry" />
         </mxCell>
-        <mxCell id="2eAw91cuDSa5Pl7X2-ji-26" value="Найти видео, стрим, канал&lt;br&gt;Актор: пользователь" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="70" width="170" height="30" as="geometry" />
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-26" value="Найти видео|стрим|канал&lt;br&gt;Актор: пользователь" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="95" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-27" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="665" y="165" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-28" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-27" target="2eAw91cuDSa5Pl7X2-ji-29" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" parent="1" source="2eAw91cuDSa5Pl7X2-ji-29" target="2eAw91cuDSa5Pl7X2-ji-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-29" value="Пользователь открывает страницу личного кабинета" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="255" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-30" value="Создать канал&lt;br&gt;Актор: авторизированный пользователь" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="115" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" parent="1" source="2eAw91cuDSa5Pl7X2-ji-31" target="2eAw91cuDSa5Pl7X2-ji-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-31" value="Система показывает страницу личного кабинета" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="355" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" parent="1" source="2eAw91cuDSa5Pl7X2-ji-33" target="2eAw91cuDSa5Pl7X2-ji-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-33" value="Пользователь нажимает кнопку &quot;создать канал&quot;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="475" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" parent="1" source="2eAw91cuDSa5Pl7X2-ji-35" target="2eAw91cuDSa5Pl7X2-ji-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-35" value="Система открывает окно создания канала" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="605" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" parent="1" source="2eAw91cuDSa5Pl7X2-ji-37" target="2eAw91cuDSa5Pl7X2-ji-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-37" value="Пользователь заполняет форму создания канала(Название, описание, тип и т.д.)&lt;br&gt;и нажимает &quot;готово&quot;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="725" width="125" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" parent="1" source="2eAw91cuDSa5Pl7X2-ji-39" target="2eAw91cuDSa5Pl7X2-ji-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-39" value="Система создает новый канал и переводит пользователя на страницу канала" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="915" width="125" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-41" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="135" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-42" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-41" target="2eAw91cuDSa5Pl7X2-ji-44" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1330" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-44" target="2eAw91cuDSa5Pl7X2-ji-47" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-44" value="Пользователь открывает страницу личного кабинета" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1267.5" y="225" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-45" value="Запустить стрим&lt;br&gt;Актор: авторизированный пользователь с как минимум 1 каналом" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="85" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-47" target="2eAw91cuDSa5Pl7X2-ji-49" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-47" value="Система показывает страницу личного кабинета" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1267.5" y="325" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-49" target="2eAw91cuDSa5Pl7X2-ji-51" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-49" value="Пользователь выбирает канал, на котором хочет провести стрим" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1267.5" y="445" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-51" target="2eAw91cuDSa5Pl7X2-ji-53" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-51" value="Система открывает окно запуска стрима" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1267.5" y="575" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-53" target="2eAw91cuDSa5Pl7X2-ji-54" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-53" value="Пользователь заполняет форму создания канала(Название, описание)б определяет настройки комментирования и т.д.&lt;br&gt;и нажимает &quot;готово&quot;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1267.5" y="695" width="125" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-54" value="Система запускает стрим и переводит пользователя на страницу стрима" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1267.5" y="940" width="125" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-55" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2005" y="110" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-56" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-55" target="2eAw91cuDSa5Pl7X2-ji-58" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2020" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-58" target="2eAw91cuDSa5Pl7X2-ji-61" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-58" value="Пользователь открывает страницу личного кабинета" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1957.5" y="200" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-59" value="Загрузить видео&lt;br&gt;Актор: авторизированный пользователь с как минимум 1 каналом" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="60" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-61" target="2eAw91cuDSa5Pl7X2-ji-63" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-61" value="Система показывает страницу личного кабинета" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1957.5" y="300" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-63" target="2eAw91cuDSa5Pl7X2-ji-65" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-63" value="Пользователь выбирает канал, кда хочет загрузить видео" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1957.5" y="420" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-65" target="2eAw91cuDSa5Pl7X2-ji-67" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-65" value="Система открывает окно загрузки стрима" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1957.5" y="550" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-67" target="2eAw91cuDSa5Pl7X2-ji-68" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-67" value="Пользователь заполняет форму загрузки видео(Название, описание)б определяет настройки комментирования и т.д., а также загружает видео с компьютера&lt;br&gt;и нажимает &quot;готово&quot;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1957.5" y="670" width="125" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-68" value="Система создает видео на канале и переводи т пользователя на страницу видео" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1957.5" y="915" width="125" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-69" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2495" y="113" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-70" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-69" target="2eAw91cuDSa5Pl7X2-ji-72" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2510" y="233" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-72" target="2eAw91cuDSa5Pl7X2-ji-75" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-72" value="Пользователь открывает страницу стрима, видео" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2447.5" y="203" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-73" value="Пожаловаться на видео/стрим/сообщение&lt;br&gt;Актор: авторизированный пользователь&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2385" y="63" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-75" target="2eAw91cuDSa5Pl7X2-ji-83" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-75" value="Система показывает страницу стрима/видео соответственно" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2447.5" y="303" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" parent="1" source="2eAw91cuDSa5Pl7X2-ji-77" target="2eAw91cuDSa5Pl7X2-ji-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2670" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-77" value="Пользователь нажимает на кнопку &quot;пожаловаться у видео или стрима" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2770" y="735" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-79" target="2eAw91cuDSa5Pl7X2-ji-81" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-79" value="Система открывает окно жалобы" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="900" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-81" target="2eAw91cuDSa5Pl7X2-ji-82" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-81" value="Пользователь заполняет форму жалобы(тип нарушения) Дополнительно может прикрепить файлы изображений как док-во или написать описание жалобы&lt;br&gt;и нажимает &quot;готово&quot;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="1000" width="125" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" parent="1" source="2eAw91cuDSa5Pl7X2-ji-82" target="2eAw91cuDSa5Pl7X2-ji-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-82" value="Система отправляет жалобу на рассмотрение модераторам и переводит пользователя на страницу стрима/видео, на котором он находился" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="1260" width="125" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" parent="1" source="2eAw91cuDSa5Pl7X2-ji-83" target="2eAw91cuDSa5Pl7X2-ji-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-88" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;[Пользователь хочет пожаловаться на комментарий под стримом/видео]&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2eAw91cuDSa5Pl7X2-ji-87">
+          <mxGeometry x="-0.2968" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-83" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="510" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-84" value="&lt;span style=&quot;font-size: 12px ; text-align: center ; background-color: rgb(248 , 249 , 250)&quot;&gt;[Пользователь хочет пожаловаться на стрим/видео]&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" source="2eAw91cuDSa5Pl7X2-ji-83" parent="1" target="2eAw91cuDSa5Pl7X2-ji-77">
+          <mxGeometry x="-0.6154" y="-50" relative="1" as="geometry">
+            <mxPoint x="2690" y="650" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" parent="1" source="2eAw91cuDSa5Pl7X2-ji-86" target="2eAw91cuDSa5Pl7X2-ji-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2630" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-86" value="Пользователь нажимает на кнопку &quot;дополнительно&quot; у комментарий и выбирает подпункт &quot;пожаловаться&quot;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2447.5" y="720" width="125" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-91" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2637.5" y="1490" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" target="2eAw91cuDSa5Pl7X2-ji-95" parent="1" source="2eAw91cuDSa5Pl7X2-ji-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2020" y="1035" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-95" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2005" y="1095" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" target="2eAw91cuDSa5Pl7X2-ji-97" parent="1" source="2eAw91cuDSa5Pl7X2-ji-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1330" y="1060" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-97" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="1120" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" target="2eAw91cuDSa5Pl7X2-ji-103" parent="1" source="2eAw91cuDSa5Pl7X2-ji-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="1035" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-103" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="665" y="1095" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" target="2eAw91cuDSa5Pl7X2-ji-107" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-165" y="1025" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;strokeColor=#000000;" edge="1" target="2eAw91cuDSa5Pl7X2-ji-107" parent="1" source="2eAw91cuDSa5Pl7X2-ji-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-165" y="1025" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-107" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1085" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-108" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="70" width="710" height="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-112" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1757.5" y="60" width="522.5" height="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-113" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="70" width="500" height="1105" as="geometry" />
+        </mxCell>
+        <mxCell id="2eAw91cuDSa5Pl7X2-ji-136" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="40" width="710" height="1510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
