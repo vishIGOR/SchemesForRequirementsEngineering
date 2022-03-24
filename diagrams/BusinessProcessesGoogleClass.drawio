@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-03-24T07:53:24.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" version="17.1.2" etag="CEmDZ9d7MeJ3pe9ZaAR0" type="github"><diagram id="ylUfS64duYymFjWkmxjw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-24T07:59:08.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="B6zp8JnLB-CJm7Mp6-gg" version="17.1.2" type="github">
+  <diagram id="ylUfS64duYymFjWkmxjw" name="Page-1">
+    <mxGraphModel dx="1237" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qSVLZNxjzEXECnaaf9MO-2" value="Учащийся" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="490" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="qSVLZNxjzEXECnaaf9MO-3" value="Преподаватель" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="530" y="80" width="500" height="820" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
