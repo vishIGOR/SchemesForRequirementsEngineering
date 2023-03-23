@@ -1,1 +1,292 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T14:13:15.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" version="20.8.5" etag="Abu8ZRiD6F_XcEVXzDZN" type="github"><diagram id="-nLWfERzDmckfTP3-VO9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-23T14:13:33.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" version="20.8.5" etag="e1MC4v4xyDyUIzUTX_ks" type="github">
+  <diagram id="vBiKU2nO_ap0TN9S-6e2" name="Страница 1">
+    <mxGraphModel dx="2220" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-1" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1560" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-2" value="Создать нового пользователя&lt;br&gt;Актор: авторизированный пользователь с правами создания пользователей" style="shape=umlFrame;whiteSpace=wrap;html=1;strokeColor=#000000;width=190;height=80;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="40" width="530" height="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-3" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="660" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=10;strokeColor=#000000;rounded=0;startSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-3" target="TfXF-2IO6uAOoMu9ImlX-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endSize=10;startSize=10;endArrow=open;endFill=0;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-6" target="TfXF-2IO6uAOoMu9ImlX-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-6" value="Актор открывает страницу пользователей" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="170" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-8" target="TfXF-2IO6uAOoMu9ImlX-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-8" value="Система показывает список пользователей" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="320" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-10" target="TfXF-2IO6uAOoMu9ImlX-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-10" value="Актор нажимает кнопку Создать пользователя" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="470" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-11" value="Система открывает форму для заполнения&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="620" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-13" value="Актор выбирает тип пользователя" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="770" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-16" value="Система меняет поля для заполнения, чтобы они соответствовали типу нового пользователя" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="920" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-17" value="Актор заполняет данные о пользователе и нажимает кнопку создать" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="1090" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-19" value="Система отправляет логин и пароль нового пользователя на выбранную почту" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="1390" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-21" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1307.5" y="1430" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-22" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1307.5" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-23" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=10;strokeColor=#000000;rounded=0;startSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-22" target="TfXF-2IO6uAOoMu9ImlX-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1322.5" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endSize=10;startSize=10;endArrow=open;endFill=0;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-25" target="TfXF-2IO6uAOoMu9ImlX-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-25" value="Актор открывает сайт приложения&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="170" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-27" target="TfXF-2IO6uAOoMu9ImlX-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-27" value="Система показывает форму с логином и паролем для авторизации&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="320" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1322.5" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-29" value="Актор заполняет форму" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="470" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1322.5" y="1340" as="sourcePoint" />
+            <mxPoint x="1322.5" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-31" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1887.5" y="1430" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-32" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1887.5" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-33" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=10;strokeColor=#000000;rounded=0;startSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-32" target="TfXF-2IO6uAOoMu9ImlX-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1902.5" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endSize=10;startSize=10;endArrow=open;endFill=0;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-35" target="TfXF-2IO6uAOoMu9ImlX-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-35" value="Актор открывает страницу пользователей" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="170" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-37" target="TfXF-2IO6uAOoMu9ImlX-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-37" value="Система показывает список пользователей" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="320" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-39" target="TfXF-2IO6uAOoMu9ImlX-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-39" value="Актор нажимает кнопку Создать пользователя" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="470" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-40" value="Система открывает форму для заполнения&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="620" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1902.5" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-42" value="Актор выбирает тип пользователя" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="770" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1902.5" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1902.5" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-45" value="Система меняет поля для заполнения, чтобы они соответствовали типу нового пользователя" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="920" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-46" value="Актор заполняет данные о пользователе и нажимает кнопку создать" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="1090" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1902.5" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-48" value="Система показывает логин и пароль для нового пользователя" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="1260" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1902.5" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-50" value="Супер-администратор может добавлять представителей школы, студентов и представителей компании. Представитель школы может добавлять представителей компаний и студентов." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="380" y="170" width="184" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-53" target="TfXF-2IO6uAOoMu9ImlX-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-53" target="TfXF-2IO6uAOoMu9ImlX-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-53" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1260" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-54" value="Данные заполнены верно" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1310" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-55" value="Данные заполнены неверно" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1285" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-57" target="TfXF-2IO6uAOoMu9ImlX-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-57" value="Система показывает сообщение об ошибке и возвращает к заполнению формы" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1245" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-60" target="TfXF-2IO6uAOoMu9ImlX-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-60" target="TfXF-2IO6uAOoMu9ImlX-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-60" value="Верный логин и пароль?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1243.75" y="620" width="157.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-61" value="Система открывает форму для выбора нового пароля" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="950" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-63" target="TfXF-2IO6uAOoMu9ImlX-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1600" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-63" value="Система показывает сообщение об ошибке и возвращает к форме авторизации" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="625" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1" source="TfXF-2IO6uAOoMu9ImlX-65" target="TfXF-2IO6uAOoMu9ImlX-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1530" y="825" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1600" y="825" />
+              <mxPoint x="1600" y="1310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-65" value="Это выданные логин и пароль?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1243.75" y="780" width="157.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1322.5" y="870" as="sourcePoint" />
+            <mxPoint x="1322.5" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-67" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="710" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-68" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="635" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-69" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="870" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-70" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1401.25" y="800" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-71" value="Пользователь выбирает новый пароль" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1110" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1322.5" y="1030" as="sourcePoint" />
+            <mxPoint x="1322.5" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-73" value="Система открывает главную страницу" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1270" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;endArrow=open;endFill=0;startSize=10;endSize=10;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1322.5" y="1190" as="sourcePoint" />
+            <mxPoint x="1322.5" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-75" value="Вход в систему&lt;br&gt;Актор: неавторизированный&amp;nbsp; пользователь" style="shape=umlFrame;whiteSpace=wrap;html=1;strokeColor=#000000;width=190;height=50;" vertex="1" parent="1">
+          <mxGeometry x="760" y="50" width="460" height="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="TfXF-2IO6uAOoMu9ImlX-76" value="Если пользователь заходит с логином и паролем, которые были отправлены ему при создании пользователя супер-администратором или представителем школы, то ему нужно будет поменять пароль при первом входе" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="220" width="184" height="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
